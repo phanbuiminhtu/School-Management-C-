@@ -49,5 +49,4 @@ class Teacher{
 		int getID(){
 			return this->ID;
 		}
-
 };
